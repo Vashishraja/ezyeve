@@ -8,11 +8,10 @@ dependencies:
     sdk: flutter
   flutter_localizations: 
     sdk: flutter
-  cached_network_image: ^3.3.0
-  flutter_svg: ^2.0.9
-  pin_code_fields: ^8.0.1
-  intl: ^0.18.0
-  connectivity_plus: ^5.0.2
+  google_fonts: ^6.2.1
+  google_sign_in: ^6.2.1
+  pin_input_text_field: ^4.5.1
+  supabase_flutter: ^2.5.3
 dev_dependencies: 
   flutter_test: 
     sdk: flutter
@@ -20,4 +19,4 @@ flutter:
   uses-material-design: true
   assets: 
     - assets/
-    - assets/images/
+
